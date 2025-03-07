@@ -1,0 +1,23 @@
+Full Transcription:
+  So, I'm happy to report we have succeeded in rebooting our flagships. Wait ahead of schedule. Yet again. This has allowed us to improve our USPs by 90%. That's nine out of every ten. Excellent, thank you Samuel. Timothy, what's the status with the linear solutions? Could you give us the latest on the square project? The linear solutions department has, yet again, functioned at full capacity, and we have fulfilled 114% of this month's objectives. You can read the handouts for a detailed account, but in short, as I reported last week, we've decided to use the right angle for the square project. Now, there's still some debate as to how big a right angle is, so we're testing currently at 90, 97, 100 and 101 degrees. As agreed, I've ensured Anderson cross-checks the design, removing any left angles and doesn't use them in future. Overall, we have very good progress with the design. Are we on track with the schedule? When are we required to start delivering? I'm happy to report that we are ready to start first deliveries tomorrow, which is way ahead of the requested delivery schedule. We've only just finished system testing the prototype and are only halfway through performance testing. We haven't even released an alpha version yet. As I said earlier, we've had very good progress with the design. Yes, we've had very good progress, but I'd say the design of the product is only 75% complete. Well, exactly. That's three out of every four. So we're ready to start shipping tomorrow. What? It doesn't work like that. We'll produce, say, four units, but only ship the first three. Then when you're finally 100% complete with the design, we can then ship the fourth. Excellent work, Timothy. You can proceed with the production. Anderson, send me please a revised delivery schedule so I can share it with a client. Well, thank you, everyone. This was very productive. Yet again.
+Device set to use cpu
+
+Summarized Text:
+  Samuel: We have succeeded in rebooting our flagships ahead of schedule . This has allowed us to improve our USPs by 90%. That's nine out of every ten . Samuel: The linear solutions department has functioned at full capacity, and we have fulfilled 114% of this month's objectives .
+
+Key Points for Tasks:
+ ['flagships wait', 'revised delivery', 'angle testing', 'square', 'status linear', 'start deliveries', 'schedule required', 'project linear']
+
+Identified People, Organizations, and Locations:
+ {'People': ['Samuel', 'Timothy', 'Anderson', 'Timothy', 'Anderson'], 'Organizations': [], 'Locations': []}
+
+Assigned Tasks:
+
+Samuel is assigned to flagships wait.
+Timothy is assigned to revised delivery.
+Anderson is assigned to angle testing.
+Timothy is assigned to square.
+Anderson is assigned to status linear.
+Samuel is assigned to start deliveries.
+Timothy is assigned to schedule required.
+Anderson is assigned to project linear.
